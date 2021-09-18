@@ -1,0 +1,55 @@
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\proekt.exe.config
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\proekt.exe
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\proekt.pdb
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.csprojAssemblyReference.cache
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.Properties.Resources.resources
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.csproj.GenerateResource.cache
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.exe
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.pdb
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.dobavka.resources
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.Form1.resources
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\OpenXmlPowerTools.dll
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\System.IO.Packaging.dll
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\System.Management.Automation.dll
+D:\Учеба\3 курс\6 сем\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Учеба\3 курс\6 сем\proekt\proekt\obj\Debug\proekt.csproj.CopyComplete
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.csprojAssemblyReference.cache
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.Form1.resources
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.dobavka.resources
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.Properties.Resources.resources
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.csproj.GenerateResource.cache
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.csproj.CoreCompileInputs.cache
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.exe
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.pdb
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\proekt.exe.config
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\proekt.exe
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\proekt.pdb
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\System.IO.Packaging.dll
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\System.Management.Automation.dll
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.csproj.CopyComplete
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.UpdateForm.resources
+C:\Users\Uladzislau_Lukiyanet\source\repos\proekt\proekt\obj\Debug\proekt.UserInfo.resources
+D:\скачка\proekt3\proekt\proekt\bin\Debug\proekt.exe.config
+D:\скачка\proekt3\proekt\proekt\bin\Debug\proekt.exe
+D:\скачка\proekt3\proekt\proekt\bin\Debug\proekt.pdb
+D:\скачка\proekt3\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.dll
+D:\скачка\proekt3\proekt\proekt\bin\Debug\OpenXmlPowerTools.dll
+D:\скачка\proekt3\proekt\proekt\bin\Debug\System.IO.Packaging.dll
+D:\скачка\proekt3\proekt\proekt\bin\Debug\System.Management.Automation.dll
+D:\скачка\proekt3\proekt\proekt\bin\Debug\DocumentFormat.OpenXml.xml
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.csprojAssemblyReference.cache
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.Form1.resources
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.dobavka.resources
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.Properties.Resources.resources
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.UpdateForm.resources
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.UserInfo.resources
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.csproj.GenerateResource.cache
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.csproj.CoreCompileInputs.cache
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.csproj.CopyComplete
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.exe
+D:\скачка\proekt3\proekt\proekt\obj\Debug\proekt.pdb
